@@ -1,6 +1,6 @@
 Name:		texlive-simpleicons
-Version:	64991
-Release:	2
+Version:	69139
+Release:	1
 Summary:	Simple Icons for LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/simpleicons
