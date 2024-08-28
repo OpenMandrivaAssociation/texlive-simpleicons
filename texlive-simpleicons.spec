@@ -1,5 +1,5 @@
 Name:		texlive-simpleicons
-Version:	70117
+Version:	72097
 Release:	1
 Summary:	Simple Icons for LaTeX
 Group:		Publishing
