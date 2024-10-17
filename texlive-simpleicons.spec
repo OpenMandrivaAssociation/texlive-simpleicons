@@ -3,7 +3,7 @@ Version:	72209
 Release:	1
 Summary:	Simple Icons for LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/simpleicons
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/simpleicons
 License:	cc-by-1
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/simpleicons.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/simpleicons.doc.r%{version}.tar.xz
