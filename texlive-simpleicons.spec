@@ -1,9 +1,9 @@
 %global tl_name simpleicons
-%global tl_revision 79647
+%global tl_revision 79771
 
 Name:		texlive-%{tl_name}
 Epoch:		1
-Version:	16.25.0
+Version:	16.27.0
 Release:	%{tl_revision}.1
 Summary:	Simple Icons for LaTeX
 Group:		Publishing
