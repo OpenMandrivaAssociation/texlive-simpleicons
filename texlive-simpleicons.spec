@@ -1,9 +1,10 @@
 %global tl_name simpleicons
-%global tl_revision 79845
+%global tl_revision 79907
+%global tl_version 16.28.0
 
 Name:		texlive-%{tl_name}
 Epoch:		1
-Version:	16.27.1
+Version:	%{tl_version}
 Release:	%{tl_revision}.1
 Summary:	Simple Icons for LaTeX
 Group:		Publishing
@@ -13,7 +14,7 @@ Source0:	https://mirrors.ctan.org/systems/texlive/tlnet/archive/simpleicons.r%{t
 Source1:	https://mirrors.ctan.org/systems/texlive/tlnet/archive/simpleicons.doc.r%{tl_revision}.tar.xz
 BuildArch:	noarch
 BuildSystem:	texlive
-Provides:	texlive(%{tl_name}) = %{tl_revision}
+Provides:	texlive(%{tl_name}) = %{version}
 
 %description
 Similar to FontAwesome icons being provided on LaTeX by the fontawesome
